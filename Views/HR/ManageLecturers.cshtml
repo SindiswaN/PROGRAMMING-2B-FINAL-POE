@@ -1,0 +1,28 @@
+﻿@model List<Contract_Monthly_Claim_System_POE.Models.Lecturer>
+
+<h2>Manage Lecturers</h2>
+<a asp-action="AddLecturer" class="btn btn-primary">Add New Lecturer</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lecturer in Model)
+        {
+            <tr>
+                <td>@lecturer.FirstName @lecturer.LastName</td>
+                <td>@lecturer.Email</td>
+                <td>
+                    <a asp-action="EditLecturer" asp-route-id="@lecturer.LecturerID" class="btn btn-warning">Edit</a>
+                    <form asp-action="DeleteLecturer" asp-route-id="@lecturer.LecturerID" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

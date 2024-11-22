@@ -1,0 +1,8 @@
+﻿<h2>Claim Status</h2>
+<div class="progress mb-4">
+    <div class="progress-bar"
+         style="width:@(Model.Status == "Approved" ? "100%" : Model.Status == "Rejected" ? "100%" : "50%")"
+         role="progressbar">
+        @Model.Status
+    </div>
+</div>

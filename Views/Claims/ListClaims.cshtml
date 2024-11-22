@@ -1,0 +1,63 @@
+﻿@model List<Contract_Monthly_Claim_System_POE.Models.Claim>
+
+<h2>All Claims</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Claim ID</th>
+            <th>Lecturer Name</th>
+            <th>Date</th>
+            <th>Hours Worked</th>
+            <th>Total Amount</th>
+            <th>Status</th>
+            <th>Rejection Reason</th>
+            <th>Supporting Document</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimID</td>
+                <td>@claim.Lecturer.FirstName @claim.Lecturer.LastName</td>
+                <td>@claim.Date.ToShortDateString()</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.TotalAmount.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-ZA"))</td>
+                <td>
+                    @if (claim.Status == "Pending")
+                    {
+                        <span class="badge bg-warning text-dark">Pending</span>
+                    }
+                    else if (claim.Status == "Approved")
+                    {
+                        <span class="badge bg-success">Approved</span>
+                    }
+                    else if (claim.Status == "Rejected")
+                    {
+                        <span class="badge bg-danger">Rejected</span>
+                    }
+                </td>
+                <td>
+                    @if (claim.RejectionReason != null)
+                    {
+                        @claim.RejectionReason
+                    }
+                    else
+                    {
+                        <span class="text-muted">N/A</span>
+                    }
+                </td>
+                <td>
+                    @if (!string.IsNullOrEmpty(claim.SupportingDocumentPath))
+                    {
+                        <a href="@Url.Content("~/uploads/" + System.IO.Path.GetFileName(claim.SupportingDocumentPath))" target="_blank">View Document</a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Document</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

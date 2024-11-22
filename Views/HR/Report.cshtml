@@ -1,0 +1,31 @@
+﻿@model List<Contract_Monthly_Claim_System_POE.Models.Claim>
+
+<h2>Approved Claims Report</h2>
+@if (!Model.Any())
+{
+    <p class="text-danger">No approved claims to display.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Claim ID</th>
+                <th>Lecturer</th>
+                <th>Date</th>
+                <th>Total Amount</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var claim in Model)
+            {
+                <tr>
+                    <td>@claim.ClaimID</td>
+                    <td>@claim.Lecturer.FirstName @claim.Lecturer.LastName</td>
+                    <td>@claim.Date.ToShortDateString()</td>
+                    <td>@claim.TotalAmount.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-ZA"))</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

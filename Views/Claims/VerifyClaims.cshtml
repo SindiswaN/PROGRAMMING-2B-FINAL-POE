@@ -1,0 +1,55 @@
+﻿@model List<Contract_Monthly_Claim_System_POE.Models.Claim>
+
+<h2>Pending Claims</h2>
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">@TempData["ErrorMessage"]</div>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Lecturer</th>
+            <th>Date</th>
+            <th>Hours</th>
+            <th>Total</th>
+            <th>Status</th>
+            <th>Notes</th>
+            <th>Supporting Document</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var claim in Model)
+        {
+            <tr>
+                <td>@claim.ClaimID</td>
+                <td>@claim.Lecturer.FirstName @claim.Lecturer.LastName</td>
+                <td>@claim.Date.ToShortDateString()</td>
+                <td>@claim.HoursWorked</td>
+                <td>@claim.TotalAmount.ToString("C", System.Globalization.CultureInfo.GetCultureInfo("en-ZA"))</td>
+                <td>@claim.Status</td>
+                <td>@claim.Notes</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(claim.SupportingDocumentPath))
+                    {
+                        <a href="@Url.Content("~/uploads/" + System.IO.Path.GetFileName(claim.SupportingDocumentPath))" target="_blank">View Document</a>
+                    }
+                    else
+                    {
+                        <span class="text-muted">No Document</span>
+                    }
+                </td>
+                <td>
+                    <form asp-controller="Claims" asp-action="VerifyClaim" method="post">
+                        <input type="hidden" name="claimID" value="@claim.ClaimID" />
+                        <textarea name="rejectionReason" class="form-control mb-2" placeholder="Reason for rejection"></textarea>
+                        <button type="submit" name="action" value="Approve" class="btn btn-success">Approve</button>
+                        <button type="submit" name="action" value="Reject" class="btn btn-danger">Reject</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

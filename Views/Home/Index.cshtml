@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!-- Home page container with background color and padding -->
+<div class="container-fluid bg-light text-center py-5" style="min-height: 100vh;">
+    <div class="container">
+        <!-- Welcome Message with enhanced styling -->
+        <div class="row mb-5">
+            <div class="col">
+                <h1 class="display-4 text-primary">Welcome to the Contract Monthly Claim System</h1>
+                <p class="lead text-secondary">Efficiently manage your claims and approvals with ease.</p>
+            </div>
+        </div>
+
+        <!-- Button section with a card layout -->
+        <div class="row">
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Lecturers</h5>
+                        <p class="card-text">Easily submit your claims for approval.</p>
+                        <a href="/Claims/SubmitClaim" class="btn btn-primary">Submit</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">View Claims</h5>
+                        <p class="card-text">Check the status of your claims.</p>
+                        <a href="/Claims/ListClaims" class="btn btn-secondary">View Claims</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Coordinators/Academic Manager</h5>
+                        <p class="card-text">Approve or reject claims submitted by others.</p>
+                        <a href="/Claims/VerifyClaims" class="btn btn-warning">Verify Claims</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-3">
+                <div class="card shadow-sm">
+                    <div class="card-body">
+                        <a asp-controller="HR" asp-action="Dashboard" class="btn btn-info">HR Dashboard</a>
+
+                    </div>
+                    </div>
+    </div>
+</div>
