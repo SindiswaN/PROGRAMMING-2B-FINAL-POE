@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contract Monthly Claim System_POE", "Contract Monthly Claim System_POE\Contract Monthly Claim System_POE.csproj", "{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{66BD8187-39B4-410E-B467-620A7F898C4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D3EA53-ED61-4F3A-876F-2919C18BE0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66BD8187-39B4-410E-B467-620A7F898C4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66BD8187-39B4-410E-B467-620A7F898C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66BD8187-39B4-410E-B467-620A7F898C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66BD8187-39B4-410E-B467-620A7F898C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE5E64A8-4F85-40AA-BF16-CECED34B8420}
+	EndGlobalSection
+EndGlobal
