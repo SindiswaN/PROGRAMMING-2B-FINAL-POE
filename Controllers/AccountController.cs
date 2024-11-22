@@ -1,4 +1,4 @@
-﻿// Controllers/AccountController.cs
+
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Contract_Monthly_Claim_System_POE.Models;
