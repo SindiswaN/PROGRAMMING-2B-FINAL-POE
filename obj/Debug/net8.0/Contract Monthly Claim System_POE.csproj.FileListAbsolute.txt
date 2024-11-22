@@ -1,0 +1,63 @@
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\appsettings.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.staticwebassets.runtime.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.exe
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.deps.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Contract Monthly Claim System_POE.pdb
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.RazorAssemblyInfo.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.RazorAssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets\msbuild.Contract Monthly Claim System_POE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets\msbuild.build.Contract Monthly Claim System_POE.props
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Contract Monthly Claim System_POE.props
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Contract Monthly Claim System_POE.props
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\scopedcss\bundle\Contract Monthly Claim System_POE.styles.css
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\scopedcss\projectbundle\Contract Monthly Claim System_POE.bundle.scp.css
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\refint\Contract Monthly Claim System_POE.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.pdb
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\ref\Contract Monthly Claim System_POE.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract.113506D8.Up2Date
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Moq.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\xunit.core.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\xunit.execution.dotnet.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\obj\Debug\net8.0\Contract Monthly Claim System_POE.sourcelink.json
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\EPPlus.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\lab_services_student\source\repos\Contract Monthly Claim System_POE\Contract Monthly Claim System_POE\bin\Debug\net8.0\CrystalDecisions.CrystalReports.Engine.dll
