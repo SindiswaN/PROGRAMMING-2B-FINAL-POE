@@ -21,7 +21,7 @@ namespace Contract_Monthly_Claim_System_POE.Models
 
         public Lecturer Lecturer { get; set; } // Foreign Key relationship
 
-        // Navigation property for the approval information
+       
         public Approval Approval { get; set; }
 
         public DateTime DateSubmitted { get; set; }
