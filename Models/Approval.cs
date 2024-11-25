@@ -7,7 +7,7 @@
         public string CoordinatorApprovalStatus { get; set; }
         public string ManagerApprovalStatus { get; set; }
 
-
+        // Navigation property back to the claim
         public Claim Claim { get; set; }
     }
 }
